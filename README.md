@@ -2,6 +2,8 @@
 
 Hello there! I'm excited to introduce you to my recent project – **Bike Compare Website**! 🚲✨
 
+## See demo: [HERE](https://kostiantynbond.github.io/layout_landing-page/)
+
 ## 🎯 Project's Goal & Requirements
 
 The **Bike Compare Website** is a responsive and interactive platform that allows users to compare different bikes based on their specifications, features, and pricing. The main focus was to create an intuitive and visually appealing experience while ensuring high performance and maintainability.
@@ -55,6 +57,4 @@ Follow these simple steps to get the project up and running on your local machin
 - **Accessibility**: Proper contrast and semantic HTML for better usability.
 - **Performance Optimization**: Lazy loading images and minified assets.
 
-## 📩 Contact
-If you have any questions or feedback, feel free to reach out! 🚀
 
